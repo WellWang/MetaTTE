@@ -1,6 +1,6 @@
 # MetaTTE: a Meta-Learning Based Travel Time Estimation Model for Multi-city Scenarios
 
-This is a TensorFlow implementation of MetaTTE in the manuscript.
+This is the official TensorFlow implementation of MetaTTE in the manuscript.
 
 ## Core Requirements
 - tensorflow~=2.3.0
